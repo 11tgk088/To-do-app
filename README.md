@@ -1,8 +1,3 @@
-# To-do-app
-Here’s a clean and concise **description** you can use in your GitHub repository (as a README section or project comment):
-
----
-
 ## 📝 To-Do List App (Vanilla JavaScript)
 
 This is a simple and interactive **To-Do List Application** built using **HTML, CSS (Bootstrap)**, and **vanilla JavaScript**. It allows users to add, edit, and delete items efficiently while preventing duplicate entries.
